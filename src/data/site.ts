@@ -5,7 +5,7 @@ export const siteConfig = {
   tagline: "Virtual Accounting & Tax Specialist",
   description:
     "Virtual Accounting & Tax Services that grow your business. Empowering companies in Mombasa and across Kenya with accurate financial records, tax compliance, payroll management, and strategic financial reporting.",
-  url: "https://bopfreelanceservices.com",
+  url: "https://bopfreelance.vercel.app",
   location: "Mombasa, Kenya",
   phone: "+254 105 716 021",
   phoneRaw: "254105716021",
