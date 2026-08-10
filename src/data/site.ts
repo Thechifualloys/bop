@@ -9,7 +9,7 @@ export const siteConfig = {
   location: "Mombasa, Kenya",
   phone: "+254 105 716 021",
   phoneRaw: "254105716021",
-  email: "info@bopfreelanceservices.com",
+  email: "oliviapendo@gmail.com",
   whatsappMessage:
     "Hello BOP Freelance Services, I'd like to enquire about your accounting & tax services.",
 };
