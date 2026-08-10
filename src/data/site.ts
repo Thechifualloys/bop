@@ -7,8 +7,8 @@ export const siteConfig = {
     "Virtual Accounting & Tax Services that grow your business. Empowering companies in Mombasa and across Kenya with accurate financial records, tax compliance, payroll management, and strategic financial reporting.",
   url: "https://bopfreelanceservices.com",
   location: "Mombasa, Kenya",
-  phone: "+254 705 451 677",
-  phoneRaw: "254705451677",
+  phone: "+254 105 716 021",
+  phoneRaw: "254105716021",
   email: "info@bopfreelanceservices.com",
   whatsappMessage:
     "Hello BOP Freelance Services, I'd like to enquire about your accounting & tax services.",
